@@ -1,4 +1,6 @@
 def main():
+    mountDrive()
+
     print("Hello from mingpt!")
 
 
